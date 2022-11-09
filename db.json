@@ -2,59 +2,59 @@
   "products": [
     {
       "id": 1,
-      "name": "JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - Black",
+      "name": "JBL Tune 510BT: Wireless On-Ear Headphones",
       "description": "The Tune 510BT wireless headphones feature renowned JBL Pure Bass sound",
       "price": 27.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017857/React%20Shopping/61yjoRgptdL._AC_SL1500__lmd19w.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/JBL_Tune_510BT_Headphone-04.jpg-500x500_wh7tag.jpg"
     },
     {
       "id": 2,
-      "name": "Razer DeathAdder Essential Gaming Mouse: 6400 DPI Optical Sensor",
+      "name": "Razer DeathAdder Essential Gaming Mouse: 6400 DPI",
       "description": "High-Precision 6,400 DPI Optical Sensor: Offers on-the-fly sensitivity adjustment",
       "price": 18.74,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017857/React%20Shopping/8189uwDnMkL._AC_SL1500__p2idmp.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/deathadder-essential-500x500_ymye6o.jpg"
     },
     {
       "id": 3,
-      "name": "KNOWSQT Wireless Keyboard and Mouse Combo, Milk Tea 104 Keys Full-Sized",
+      "name": "KNOWSQT Wireless Keyboard and Mouse Combo",
       "description": "Plug and play, 35 feet working range, 2-in-1 nano receiver, no need to install other software",
       "price": 43.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017857/React%20Shopping/71687FoL8cL._AC_SL1500__vrb9le.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020337/React%20Shopping/71ksUHXSd0L_krtzu0.jpg"
     },
     {
       "id": 4,
       "name": "Xbox Core Wireless Controller – Carbon Black",
       "description": "Stay on target with the hybrid D-pad, textured grip on the triggers, bumpers, and back-case",
       "price": 49,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017857/React%20Shopping/61hxzGfRpKL._SL1500__xllj2c.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/598716-Product-2-I-637993670240647953_1024x1024_noktvh.jpg"
     },
     {
       "id": 5,
       "name": "Linksys EA8300 Max-Stream: AC2200 Tri-Band Wi-Fi Router",
       "description": "Provides up to 1,500 square feet of Wi-Fi coverage for 15plus wireless devices",
       "price": 78,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017858/React%20Shopping/81YYXAGRM8L._AC_SL1500__f45ujz.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/dims_c1as9z.jpg"
     },
     {
       "id": 6,
-      "name": "Smart Watch, Luoba 1.69'' Full Touch Answer/Make Call Android Smartwatch",
+      "name": "Smart Watch, Luoba 1.69'' Full Touch Android Smartwatch",
       "description": "Luoba upgrade smart watch for iPhone compatible, has built-in high-quality speakers",
       "price": 29.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017859/React%20Shopping/61jnKLTcSfL._AC_SL1500__i399fp.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020337/React%20Shopping/61XulyKhu-L._AC_SL1500__p9tvo4.jpg"
     },
     {
       "id": 7,
       "name": "Hontry Binoculars for Adults and Kids, 10x25 Compact Binoculars",
       "description": "10 magnification with 25mm objective lens provides high definition without a color-changed or blurred image",
       "price": 29.75,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017857/React%20Shopping/71p-bGgJhuL._AC_SL1500__xmdtmu.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020337/React%20Shopping/699c0f1c-3da7-478e-b749-f4f370e977cc.95f7b2f6c5d7c2b6c134d5b23459f18d_isahx6.jpg"
     },
     {
       "id": 8,
-      "name": "GoPro HERO11 Black - Waterproof Action Camera with 5.3K60 Ultra HD Video",
+      "name": "GoPro HERO11 Black - Waterproof Action Camera",
       "description": "Revolutionary New Image Sensor: expansive field of view ever on a HERO camera out of the box",
       "price": 449.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668017858/React%20Shopping/617sGSjmC1L._AC_SL1500__c7m6vf.jpg"
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020338/React%20Shopping/QsisygBShGkKYcmXwpe2tM_gu8byk.jpg"
     }
   ]
 }
