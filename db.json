@@ -2,59 +2,73 @@
   "products": [
     {
       "id": 1,
-      "name": "JBL Tune 510BT: Wireless On-Ear Headphones",
-      "description": "The Tune 510BT wireless headphones feature renowned JBL Pure Bass sound",
-      "price": 27.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/JBL_Tune_510BT_Headphone-04.jpg-500x500_wh7tag.jpg"
+      "name": "Blink Mini – Compact indoor plug-in smart security camera",
+      "description": "Monitor the inside of your home day and night with our 1080P HD indoor plug-in smart security camera",
+      "price": 64.99,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172648/React%20Shopping/Products/81-585-013-01_a04wkd.jpg"
     },
     {
       "id": 2,
-      "name": "Razer DeathAdder Essential Gaming Mouse: 6400 DPI",
-      "description": "High-Precision 6,400 DPI Optical Sensor: Offers on-the-fly sensitivity adjustment",
-      "price": 18.74,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/deathadder-essential-500x500_ymye6o.jpg"
+      "name": "Vlogging Camera, 4K Digital Camera for YouTube with WiFi",
+      "description": "It's super suitable for the 'happy snapper' who just hope to point and shoot to take good quality images",
+      "price": 109.99,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172649/React%20Shopping/Products/81pgsjFGpmL_qundpd.jpg"
     },
     {
       "id": 3,
-      "name": "KNOWSQT Wireless Keyboard and Mouse Combo",
-      "description": "Plug and play, 35 feet working range, 2-in-1 nano receiver, no need to install other software",
-      "price": 43.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020337/React%20Shopping/71ksUHXSd0L_krtzu0.jpg"
+      "name": "SAMSUNG 55-Inch Class Crystal 4K UHD AU8000 Series HDR",
+      "description": "Witness millions of shades of color through powerful Dynamic Crystal technology",
+      "price": 497.99,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172649/React%20Shopping/Products/cl-uhd-tu7090-un50tu7090gxzs-rperspective-285965740_duusj5.png"
     },
     {
       "id": 4,
-      "name": "Xbox Core Wireless Controller – Carbon Black",
-      "description": "Stay on target with the hybrid D-pad, textured grip on the triggers, bumpers, and back-case",
-      "price": 49,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/598716-Product-2-I-637993670240647953_1024x1024_noktvh.jpg"
+      "name": "Sony 65 Inch 4K Ultra HD TV X80K Series: LED Smart Google TV",
+      "description": "The 4K HDR Processor X1 delivers a picture that is smooth and clear, full of rich colors and detailed contrast",
+      "price": 698.0,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172649/React%20Shopping/Products/287330_fhhcyx.jpg"
     },
     {
       "id": 5,
-      "name": "Linksys EA8300 Max-Stream: AC2200 Tri-Band Wi-Fi Router",
-      "description": "Provides up to 1,500 square feet of Wi-Fi coverage for 15plus wireless devices",
-      "price": 78,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020336/React%20Shopping/dims_c1as9z.jpg"
+      "name": "PlayStation 4 Slim 1TB Console - Black",
+      "description": "When present, batteries have a capacity that exceeds 80% of the new equivalent",
+      "price": 479.99,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172648/React%20Shopping/Products/0188101_sony-playstation-4-slim-1tb-gaming-console-ps4_550_obrjcw.jpg"
     },
     {
       "id": 6,
-      "name": "Smart Watch, Luoba 1.69'' Full Touch Android Smartwatch",
-      "description": "Luoba upgrade smart watch for iPhone compatible, has built-in high-quality speakers",
-      "price": 29.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020337/React%20Shopping/61XulyKhu-L._AC_SL1500__p9tvo4.jpg"
+      "name": "Xbox Series S Fortnite & Rocket League Bundle",
+      "description": "Get the all-digital Xbox Series S Fortnite & Rocket League Bundle featuring the Midnight Drive Pack",
+      "price": 199.0,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172649/React%20Shopping/Products/2f0a6466-be4f-45a1-868f-dce57c3c6469.0838a0a2ac552dd7273083559d7f3c70_d4i7zb.jpg"
     },
     {
       "id": 7,
-      "name": "Hontry Binoculars for Adults and Kids, 10x25 Compact Binoculars",
-      "description": "10 magnification with 25mm objective lens provides high definition without a color-changed or blurred image",
-      "price": 29.75,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020337/React%20Shopping/699c0f1c-3da7-478e-b749-f4f370e977cc.95f7b2f6c5d7c2b6c134d5b23459f18d_isahx6.jpg"
+      "name": "JBL Tune 510BT: Wireless On-Ear Headphones with Purebass Sound - White",
+      "description": "The Tune 510BT wireless headphones feature renowned JBL Pure Bass sound",
+      "price": 29.99,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172649/React%20Shopping/Products/JBL_Tune_510BT_Headphone-04.jpg-500x500_vqlhjf.jpg"
     },
     {
       "id": 8,
-      "name": "GoPro HERO11 Black - Waterproof Action Camera",
-      "description": "Revolutionary New Image Sensor: expansive field of view ever on a HERO camera out of the box",
-      "price": 449.99,
-      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668020338/React%20Shopping/QsisygBShGkKYcmXwpe2tM_gu8byk.jpg"
+      "name": "Bluetooth Headphones Wireless Earbuds 36Hrs Playtime Wireless Charging",
+      "description": "Wireless earbuds with dual power display show the remaining battery of the case by the number on the screen",
+      "price": 38.99,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172650/React%20Shopping/Products/9b890489-49e2-47aa-8b85-b71892cc16ae.3142c0cfab48b4acd4f628c8f8f39190_volxjj.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Apple Watch Series 4 (GPS, 40MM) - Silver Aluminum Case",
+      "description": "This product will have a battery that exceeds 80% capacity relative to new",
+      "price": 147.0,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172650/React%20Shopping/Products/FU642_zstpwl.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Military Smart Watch for Men Outdoor Waterproof Tactical Smartwatch",
+      "description": "EIGIIS military smart watch has a 10 military grade certifications and can be used under the harsh environmental conditions",
+      "price": 49.99,
+      "image": "https://res.cloudinary.com/dy28teazb/image/upload/v1668172650/React%20Shopping/Products/Military-Smart-Watch-Men-Outdoor-Waterproof-Tactical-Smartwatch-Bluetooth-Dail-Calls-Speaker-Fitness-Tracker-for-iPhone.jpg_640x640_jy4v6s.jpg"
     }
   ]
 }
